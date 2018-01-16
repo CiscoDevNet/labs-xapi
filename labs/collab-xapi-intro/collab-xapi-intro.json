@@ -16,6 +16,10 @@
     {
       "title": "Spark-registered Devices",
       "file": "3.md"
+    },
+    {
+      "title": "Tour of the Web Interface",
+      "file": "4.md"
     }
   ],
   "tags": [
