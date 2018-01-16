@@ -12,6 +12,10 @@
     {
       "title": "Getting Started with your Device",
       "file": "2.md"
+    },
+    {
+      "title": "Spark-registered Devices",
+      "file": "3.md"
     }
   ],
   "tags": [
