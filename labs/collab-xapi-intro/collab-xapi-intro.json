@@ -28,6 +28,10 @@
     {
       "title": "Invoking xAPI via HTTP",
       "file": "6.md"
+    },
+    {
+      "title": "Start Video Calls programmatically",
+      "file": "7.md"
     }
   ],
   "tags": [
