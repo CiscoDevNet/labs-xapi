@@ -20,6 +20,10 @@
     {
       "title": "Tour of the Web Interface",
       "file": "4.md"
+    },
+    {
+      "title": "Interacting through SSH",
+      "file": "5.md"
     }
   ],
   "tags": [
