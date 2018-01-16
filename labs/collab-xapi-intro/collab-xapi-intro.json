@@ -24,6 +24,10 @@
     {
       "title": "Interacting through SSH",
       "file": "5.md"
+    },
+    {
+      "title": "Invoking xAPI via HTTP",
+      "file": "6.md"
     }
   ],
   "tags": [
