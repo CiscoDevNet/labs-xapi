@@ -1,0 +1,23 @@
+{
+    "labId": "collab-xapi-intro",
+    "title": "Introduction to xAPI and Cisco CE Software Customization",
+    "slug": "Explore the programmability of Cisco Collaboration Devices and understand xAPI – the API exposed by Cisco TelePresence CE software.",
+    "time": 20,
+    "byod": true,
+    "files": [
+      {"title": "About CE Customization and xAPI", "file" : "1.md"}
+    ],
+    "tags": [
+      {"title" : "Collaboration"},
+      {"title": "xAPI"}
+    ],
+    "related": [
+    ],
+    "authors": [
+        {"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
+    ],
+    "reviewers": [
+    ],
+    "active": true
+  }
+  
