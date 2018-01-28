@@ -2,7 +2,7 @@
   "labId": "collab-xapi-intro",
   "title": "Introduction to xAPI and Cisco CE Software Customization",
   "slug": "Explore the programmability of Cisco Collaboration Devices and understand xAPI – the API exposed by Cisco TelePresence CE software.",
-  "time": 20,
+  "time": 30,
   "byod": true,
   "files": [
     {
@@ -30,8 +30,12 @@
       "file": "6.md"
     },
     {
-      "title": "Start Video Calls programmatically",
+      "title": "Using the Node.js 'jsxapi' library",
       "file": "7.md"
+    },
+    {
+      "title": "Start Video Calls programmatically",
+      "file": "8.md"
     }
   ],
   "tags": [
