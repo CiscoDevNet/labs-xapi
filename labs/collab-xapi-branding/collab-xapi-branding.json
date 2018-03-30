@@ -1,0 +1,46 @@
+{
+  "labId": "collab-xapi-branding",
+  "title": "Personalizing Collaboration Devices from code",
+  "slug": "Learn to add your logo signage and custom messages to your Collaboration device from the Administration Web User Interface, ssh, HTTP requests and Node.js code.",
+  "time": 20,
+  "byod": true,
+  "files": [
+    {
+      "title": "About Personalization and Branding",
+      "file": "1.md"
+    },
+    {
+      "title": "Branding via the Web UI",
+      "file": "2.md"
+    },
+    {
+      "title": "Branding via SSH",
+      "file": "3.md"
+    },
+    {
+      "title": "Branding via HTTP requests",
+      "file": "4.md"
+    },
+    {
+      "title": "Branding via Node.js",
+      "file": "5.md"
+    }
+  ],
+  "tags": [
+    {
+      "title": "Collaboration"
+    },
+    {
+      "title": "xAPI"
+    }
+  ],
+  "related": [],
+  "authors": [
+    {
+      "name": "Stève Sfartz",
+      "email": "stsfartz@cisco.com"
+    }
+  ],
+  "reviewers": [],
+  "active": true
+}
