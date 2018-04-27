@@ -13,6 +13,10 @@ xapi.on('error', (err) => {
     process.exit(1)
 })
 
+// CE maximum volume for Ultrasound
+const MAX = 90 // for a DX80
+//const MAX = 70 // for a RoomKit
+
 xapi.on('ready', () => {
     console.log("connexion successful")
 
@@ -36,6 +40,3 @@ xapi.on('ready', () => {
             console.log(`could not fetch volume: ${err.message}`)
         })
 })
-
-
-

@@ -3,9 +3,17 @@
 // Licensed under the MIT License
 //
 
+//
+// Copyright (c) 2018 Cisco Systems
+// Licensed under the MIT License
+//
+
+
 // Max Ultrasound Volume
 const MAX = 90 // for a DX80
 //const MAX = 70 // for a RoomKit
+
+const xapi = require('xapi')
 
 xapi.on('ready', () => {
     console.log("connexion successful")

@@ -13,7 +13,7 @@ xapi.on('error', (err) => {
     process.exit(1)
 })
 
-// Max Ultrasound Volume
+// CE maximum volume for Ultrasound
 const MAX = 90 // for a DX80
 //const MAX = 70 // for a RoomKit
 

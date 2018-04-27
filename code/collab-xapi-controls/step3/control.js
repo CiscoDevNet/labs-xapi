@@ -13,12 +13,12 @@ xapi.on('error', (err) => {
     process.exit(1)
 })
 
+// CE maximum volume for Ultrasound
+const MAX = 90 // for a DX80
+//const MAX = 70 // for a RoomKit
+
 xapi.on('ready', () => {
     console.log("connexion successful")
-
-    // Max Ultrasound
-    const MAX = 90 // for a DX80
-    //const MAX = 70 // for a RoomKit
 
     // Initialize Widgets with current volume
     xapi.config.get('Audio Ultrasound MaxVolume')
