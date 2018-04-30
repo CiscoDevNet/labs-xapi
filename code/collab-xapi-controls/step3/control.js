@@ -51,6 +51,3 @@ xapi.on('ready', () => {
         xapi.config.set('Audio Ultrasound MaxVolume', volume)
     })
 })
-
-
-
