@@ -1,0 +1,58 @@
+{
+  "labId": "collab-xapi-controls",
+  "title": "Creating custom In-Room Controls",
+  "slug": "Experience In-Room Controls from the simulator, learn to create a custom panel with the embedded Controls Editor and turn in interactive via a Node.js script and a Javascript macro. ",
+  "time": 30,
+  "byod": true,
+  "files": [
+    {
+      "title": "Introduction to In-Room Controls",
+      "file": "1.md"
+    },
+    {
+      "title": "Experience Controls from the Simulator",
+      "file": "2.md"
+    },
+    {
+      "title": "Creating custom In-Room Controls",
+      "file": "3.md"
+    },
+    {
+      "title": "Initialization Controls",
+      "file": "4.md"
+    },
+    {
+      "title": "Updating Configuration from Controls",
+      "file": "5.md"
+    },
+    {
+      "title": "Reflecting State Both Ways",
+      "file": "6.md"
+    },
+    {
+      "title": "Extra Events to Consider",
+      "file": "7.md"
+    },
+    {
+      "title": "Running Custom Code as a Macro",
+      "file": "8.md"
+    }
+  ],
+  "tags": [
+    {
+      "title": "Collaboration"
+    },
+    {
+      "title": "xAPI"
+    }
+  ],
+  "related": [],
+  "authors": [
+    {
+      "name": "Stève Sfartz",
+      "email": "stsfartz@cisco.com"
+    }
+  ],
+  "reviewers": [],
+  "active": true
+}
