@@ -18,11 +18,11 @@
       "file": "3.md"
     },
     {
-      "title": "Initialization Controls",
+      "title": "Initializing Controls",
       "file": "4.md"
     },
     {
-      "title": "Updating Configuration from Controls",
+      "title": "Updating your device's Configuration",
       "file": "5.md"
     },
     {
@@ -34,7 +34,7 @@
       "file": "7.md"
     },
     {
-      "title": "Running Custom Code as a Macro",
+      "title": "Creating Macros",
       "file": "8.md"
     }
   ],
@@ -46,7 +46,8 @@
       "title": "xAPI"
     }
   ],
-  "related": [],
+  "related": [
+  ],
   "authors": [
     {
       "name": "Stève Sfartz",
