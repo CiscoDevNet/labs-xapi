@@ -1,7 +1,7 @@
 {
   "labId": "collab-xapi-branding",
-  "title": "Personalizing Collaboration Devices from code",
-  "slug": "Learn to add your logo signage and custom messages to your Collaboration device from the Administration Web User Interface, ssh, HTTP requests and Node.js code.",
+  "title": "Customizing Collaboration Devices from Code",
+  "slug": "Learn to customize display logos, signage and custom messages for your Cisco Webex collaboration device via, SSH, HTTP and Node.js/JavaScript.",
   "time": 20,
   "byod": true,
   "files": [
@@ -10,7 +10,7 @@
       "file": "1.md"
     },
     {
-      "title": "Branding via the Web UI",
+      "title": "Branding via the Admin Web UI",
       "file": "2.md"
     },
     {
@@ -18,11 +18,11 @@
       "file": "3.md"
     },
     {
-      "title": "Branding via HTTP requests",
+      "title": "Branding via HTTP/REST",
       "file": "4.md"
     },
     {
-      "title": "Branding via Node.js",
+      "title": "Branding via Node.js/JavaScript",
       "file": "5.md"
     }
   ],
@@ -39,6 +39,10 @@
     {
       "name": "Stève Sfartz",
       "email": "stsfartz@cisco.com"
+    },
+    {
+      "name": "David Staudt",
+      "email": "dstaudt@cisco.com"
     }
   ],
   "reviewers": [],
