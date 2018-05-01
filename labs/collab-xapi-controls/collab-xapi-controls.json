@@ -10,7 +10,7 @@
       "file": "1.md"
     },
     {
-      "title": "Experience Controls from the Simulator",
+      "title": "Experience the Simulator",
       "file": "2.md"
     },
     {
@@ -18,7 +18,7 @@
       "file": "3.md"
     },
     {
-      "title": "Initializing Controls",
+      "title": "Interacting with Controls from Code",
       "file": "4.md"
     },
     {
@@ -26,11 +26,11 @@
       "file": "5.md"
     },
     {
-      "title": "Reflecting State Both Ways",
+      "title": "Reflecting state both ways",
       "file": "6.md"
     },
     {
-      "title": "Extra Events to Consider",
+      "title": "Extra events to consider",
       "file": "7.md"
     },
     {
