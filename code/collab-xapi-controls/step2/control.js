@@ -14,8 +14,8 @@ xapi.on('error', (err) => {
 })
 
 // CE maximum value for Ultrasound's MaxVolume
-const MAX = 90 // for a DX80, and 70 for a RoomKit
-
+const MAX = 90 // for a DX80
+//const MAX = 70 // for a RoomKit
 
 xapi.on('ready', () => {
     console.log("connexion successful")
