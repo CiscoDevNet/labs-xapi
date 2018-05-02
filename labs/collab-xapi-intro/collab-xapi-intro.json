@@ -1,40 +1,40 @@
 {
   "labId": "collab-xapi-intro",
-  "title": "Introduction to xAPI and Cisco CE Software Customization",
-  "slug": "Explore the programmability of Cisco Collaboration Devices and understand xAPI – the API exposed by Cisco TelePresence CE software.",
+  "title": "Intro to xAPI for Cisco Room Devices",
+  "slug": "Explore the programmability of Cisco collaboration Room Devices and understand xAPI – the API exposed by Cisco TelePresence CE software.",
   "time": 30,
   "byod": true,
   "files": [
     {
-      "title": "About CE Customization and xAPI",
+      "title": "Intro to xAPI for Cisco Room Devices",
       "file": "1.md"
     },
     {
-      "title": "Getting Started with your Device",
+      "title": "Getting Started with Your Collaboration Device",
       "file": "2.md"
     },
     {
-      "title": "Spark-registered Devices",
+      "title": "Accessing the Admin Web Interface (Webex Teams)",
       "file": "3.md"
     },
     {
-      "title": "Tour of the Web Interface",
+      "title": "Tour of Your Room Device’s Web Interface",
       "file": "4.md"
     },
     {
-      "title": "Interacting through SSH",
+      "title": "Interacting with xAPI Using SSH",
       "file": "5.md"
     },
     {
-      "title": "Invoking xAPI via HTTP",
+      "title": "Invoking xAPI with a REST Client",
       "file": "6.md"
     },
     {
-      "title": "Using the Node.js 'jsxapi' library",
+      "title": "Using the 'jsxapi' Library for Node.js",
       "file": "7.md"
     },
     {
-      "title": "Start Video Calls programmatically",
+      "title": "Starting Video Calls Programmatically",
       "file": "8.md"
     }
   ],
@@ -51,8 +51,12 @@
     {
       "name": "Stève Sfartz",
       "email": "stsfartz@cisco.com"
-    }
+    },
+    {
+      "name": "David Staudt",
+      "email": "dstaudt@cisco.com"
+    }    
   ],
-  "reviewers": [],
+  "reviewers": [ ],
   "active": true
 }
