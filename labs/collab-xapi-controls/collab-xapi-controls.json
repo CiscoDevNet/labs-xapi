@@ -1,7 +1,7 @@
 {
   "labId": "collab-xapi-controls",
-  "title": "Creating custom In-Room Controls",
-  "slug": "Experience In-Room Controls from the simulator, learn to create a custom panel with the embedded Controls Editor and turn in interactive via a Node.js script and a Javascript macro. ",
+  "title": "Creating Custom In-Room Controls and Macros for Cisco Webex Collaboration Devices",
+  "slug": "Learn how to create custom in-room controls for Cisco Webex collaboration devices, using the on-board control simulator tool and the in-room control editor.  Then make those controls interactive via a server-based Node.js script, or an on-board JavaScript macro.",
   "time": 30,
   "byod": true,
   "files": [
@@ -14,7 +14,7 @@
       "file": "2.md"
     },
     {
-      "title": "Creating custom In-Room Controls",
+      "title": "Creating Custom In-Room Controls",
       "file": "3.md"
     },
     {
@@ -52,6 +52,10 @@
     {
       "name": "Stève Sfartz",
       "email": "stsfartz@cisco.com"
+    },
+    {
+      "name": "David Staudt",
+      "email": "dstaudt@cisco.com"
     }
   ],
   "reviewers": [],
