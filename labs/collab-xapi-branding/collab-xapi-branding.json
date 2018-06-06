@@ -1,7 +1,7 @@
 {
   "labId": "collab-xapi-branding",
-  "title": "Customizing Webex Devices from Code",
-  "slug": "Learn to customize display logos, signage and custom messages for your Webex Room and Desk devices via, SSH, HTTP and Node.js/JavaScript.",
+  "title": "Customizing Collaboration Devices from Code",
+  "slug": "Learn to customize display logos, signage and custom messages for your Collaboration devices via, SSH, HTTP and Node.js/JavaScript.",
   "time": 20,
   "byod": true,
   "files": [
@@ -37,11 +37,11 @@
   "related": [
     {
       "labId": "collab-xapi-controls",
-      "title": "Creating Custom In-Room Controls and Macros for Webex Devices"
+      "title": "Creating Custom In-Room Controls and Macros"
     },
     {
       "labId": "collab-xapi-intro",
-      "title": "Introduction to xAPI for Webex Devices"
+      "title": "Introduction to xAPI for Cisco Collaboration Devices"
     }
   ],
   "authors": [

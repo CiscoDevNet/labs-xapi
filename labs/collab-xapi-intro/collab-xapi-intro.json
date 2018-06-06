@@ -49,11 +49,11 @@
   "related": [
     {
       "labId": "collab-xapi-branding",
-      "title": "Customizing Webex Devices from Code"
+      "title": "Customizing Collaboration Devices from Code"
     },
     {
       "labId": "collab-xapi-controls",
-      "title": "Creating Custom In-Room Controls and Macros for Webex Devices"
+      "title": "Creating Custom In-Room Controls and Macros"
     }
   ],
   "authors": [
