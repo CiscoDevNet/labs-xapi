@@ -46,7 +46,16 @@
       "title": "xAPI"
     }
   ],
-  "related": [],
+  "related": [
+    {
+      "labId": "collab-xapi-branding",
+      "title": "Customizing Webex Devices from Code"
+    },
+    {
+      "labId": "collab-xapi-controls",
+      "title": "Creating Custom In-Room Controls and Macros for Webex Devices"
+    }
+  ],
   "authors": [
     {
       "name": "Stève Sfartz",
