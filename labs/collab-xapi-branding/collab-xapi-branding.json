@@ -1,7 +1,7 @@
 {
   "labId": "collab-xapi-branding",
   "title": "Customizing Collaboration Devices from Code",
-  "slug": "Learn to customize display logos, signage and custom messages for your Collaboration devices via, SSH, HTTP and Node.js/JavaScript.",
+  "slug": "Learn to customize display logos, signage and custom messages for Cisco Collaboration Devices via SSH, HTTP and Node.js/JavaScript.",
   "time": 20,
   "byod": true,
   "files": [
