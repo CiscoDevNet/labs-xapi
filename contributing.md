@@ -8,7 +8,6 @@ For Learning Labs, you can help in these primary ways:
 - Requesting or creating a release.
 - Contacting DevNet to publish new or updated Learning Labs.
 
-
 ## Using the issue tracker
 
 For Learning Labs, there are two potential places to track issues, depending on whether the repo is public or private.
