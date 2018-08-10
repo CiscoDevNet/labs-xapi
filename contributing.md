@@ -26,7 +26,6 @@ Use the issue tracker to suggest additions, report bugs, and ask questions. This
 
 Also use the issue tracker to find ways to contribute. Test a lab, find a bug, log an issue. Or offer an update, comment on the issue that you will take on that effort, then follow the ``Changing the Learning Lab`` content guidance below.
 
-
 ## Changing the Learning Lab content
 
 Generally speaking, you should fork the Learning Lab repository, make changes in your fork, and then submit a Pull Request (PR). We expect you have validated that all documented tasks work as expected. Plus, the content should follow the [Learning Lab Style Guide](https://github.com/CiscoDevNet/devnet-writing-guidelines/wiki/Lab-Style-Guide).
