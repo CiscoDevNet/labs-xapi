@@ -1,0 +1,76 @@
+{
+  "labId": "collab-xapi-intro",
+  "title": "Introduction to xAPI for Cisco Collaboration Devices",
+  "slug": "Explore the programmability of Cisco Collaboration Devices and understand xAPI – the API exposed by Cisco TelePresence CE software.",
+  "time": 30,
+  "byod": true,
+  "files": [
+    {
+      "title": "About CE Customization and xAPI",
+      "file": "1.md"
+    },
+    {
+      "title": "Getting started with your Device",
+      "file": "2.md"
+    },
+    {
+      "title": "Accessing Webex-registered Devices",
+      "file": "3.md"
+    },
+    {
+      "title": "Tour of your Device’s Web Interface",
+      "file": "4.md"
+    },
+    {
+      "title": "Interacting with xAPI using SSH",
+      "file": "5.md"
+    },
+    {
+      "title": "Invoking xAPI via HTTP",
+      "file": "6.md"
+    },
+    {
+      "title": "Using the 'jsxapi' library",
+      "file": "7.md"
+    },
+    {
+      "title": "Starting Video Calls programmatically",
+      "file": "8.md"
+    }
+  ],
+  "tags": [
+    {
+      "title": "Collaboration"
+    },
+    {
+      "title": "xAPI"
+    }
+  ],
+  "related": [
+    {
+      "labId": "collab-xapi-branding",
+      "title": "Customizing Collaboration Devices from Code"
+    },
+    {
+      "labId": "collab-xapi-controls",
+      "title": "Creating Custom In-Room Controls and Macros"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Stève Sfartz",
+      "email": "stsfartz@cisco.com"
+    },
+    {
+      "name": "David Staudt",
+      "email": "dstaudt@cisco.com"
+    }    
+  ],
+  "reviewers": [ 
+     {
+       "name": "Bjørnar Snoksrud",
+       "email": "bsnoksru@cisco.com"
+     }
+  ],
+  "active": true
+}
