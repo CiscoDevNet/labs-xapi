@@ -1,0 +1,63 @@
+{
+  "labId": "collab-xapi-macros",
+  "title": "Exploring on-board xAPI Macros for Cisco collaboration devices",
+  "slug": "Learn about JavaScript 'macro' capabilities for running custom code onboard Cisco CE collaboration devices.",
+  "time": 30,
+  "byod": true,
+  "files": [
+    {
+      "title": "About CE, Macros and xAPI",
+      "file": "1.md"
+    },
+    {
+      "title": "Macro 'Hello World'",
+      "file": "2.md"
+    },
+    {
+      "title": "Deploying macros",
+      "file": "3.md"
+    },
+    {
+      "title": "Making external HTTP requests",
+      "file": "4.md"
+    },
+    {
+      "title": "Putting it all together",
+      "file": "5.md"
+    }
+  ],
+  "tags": [
+    {
+      "title": "Collaboration"
+    },
+    {
+      "title": "xAPI"
+    }
+  ],
+  "related": [
+    {
+      "labId": "collab-xapi-intro",
+      "title": "Introduction to xAPI for Cisco collaboration devices"
+    },
+    {
+      "labId": "collab-xapi-branding",
+      "title": "Customizing collaboration devices from code"
+    },
+    {
+      "labId": "collab-xapi-controls",
+      "title": "Creating custom in-room controls and xAPI apps"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Stève Sfartz",
+      "email": "stsfartz@cisco.com"
+    },
+    {
+      "name": "David Staudt",
+      "email": "dstaudt@cisco.com"
+    }    
+  ],
+  "reviewers": [ ],
+  "active": true
+}
