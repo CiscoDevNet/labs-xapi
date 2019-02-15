@@ -1,7 +1,7 @@
 {
   "labId": "collab-xapi-controls",
-  "title": "Creating custom in-room controls and xAPI apps",
-  "slug": "Learn how to create custom controls for Cisco collaboration devices, using the on-board control simulator tool and the in-room control editor. Then make those controls interactive via a PC-based Node.js script.",
+  "title": "Creating custom in-room controls for Cisco collaboration devices",
+  "slug": "Learn how to create custom in-room controls for Cisco collaboration devices, using the on-board control simulator tool and the in-room control editor. Then make those controls interactive via a PC-based Node.js script.",
   "time": 30,
   "byod": true,
   "files": [
@@ -32,6 +32,10 @@
     {
       "title": "Extra events to consider",
       "file": "7.md"
+    },
+    {
+      "title": "Running JavaScript on-device with macros",
+      "file": "8.md"
     }
   ],
   "tags": [
