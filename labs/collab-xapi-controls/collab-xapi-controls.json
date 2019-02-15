@@ -54,6 +54,10 @@
     {
       "labId": "collab-xapi-intro",
       "title": "Introduction to xAPI for Cisco collaboration devices"
+    },
+    {
+      "labId": "collab-xapi-macros",
+      "title": "Exploring xAPI Macros for Cisco collaboration devices"
     }
   ],
   "authors": [
