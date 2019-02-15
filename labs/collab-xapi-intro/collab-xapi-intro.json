@@ -49,11 +49,15 @@
   "related": [
     {
       "labId": "collab-xapi-branding",
-      "title": "Customizing Collaboration Devices from Code"
+      "title": "Customizing Cisco collaboration devices from code"
     },
     {
       "labId": "collab-xapi-controls",
-      "title": "Creating Custom In-Room Controls and Macros"
+      "title": "Creating Custom in-room controls for Cisco collaboration devices"
+    },
+    {
+      "labId": "collab-xapi-macros",
+      "title": "Exploring xAPI Macros for Cisco collaboration devices"
     }
   ],
   "authors": [
