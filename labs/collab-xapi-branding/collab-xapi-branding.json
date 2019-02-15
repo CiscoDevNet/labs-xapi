@@ -1,6 +1,6 @@
 {
   "labId": "collab-xapi-branding",
-  "title": "Customizing Collaboration Devices from Code",
+  "title": "Customizing collaboration devices from code",
   "slug": "Learn to customize display logos, signage and custom messages for Cisco Collaboration Devices via SSH, HTTP and Node.js/JavaScript.",
   "time": 20,
   "byod": true,
@@ -37,11 +37,15 @@
   "related": [
     {
       "labId": "collab-xapi-controls",
-      "title": "Creating Custom In-Room Controls and Macros"
+      "title": "Creating custom in-room controls for Cisco collaboration devices"
     },
     {
       "labId": "collab-xapi-intro",
       "title": "Introduction to xAPI for Cisco Collaboration Devices"
+    },
+    {
+      "labId": "collab-xapi-macros",
+      "title": "Exploring xAPI Macros for Cisco collaboration devices"
     }
   ],
   "authors": [
