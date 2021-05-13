@@ -8,7 +8,7 @@ Contributions are welcome, and we are glad to review changes through pull reques
 
 Once approved, Cisco DevNet reviewers then create a release to publish through our Learning Labs system.
 
-The goal of these learning labs is to ensure a 'hands-on' learning approach rather than theory or instructions.
+The goal of these Learning Labs is to ensure a 'hands-on' learning approach rather than theory or instructions.
 
 ## About these Learning Labs
 
@@ -20,19 +20,7 @@ If you need more help, you can reach out to DevNet through one of our [support o
 
 ## Preview Learning Lab Markdown locally
 
-You can preview how the Markdown renders by using a pre-built Docker image. The `Makefile` in the root of the repository lets you run `make preview` to view the output HTML.
-
-1. Make sure you have Docker installed locally. If not, [install Docker](https://docs.docker.com/install/) for your operating system.
-   ```
-   $ docker -v
-   ```
-1. In the root of the repository, run:
-   ```
-   $ make preview
-   ```
-1. Open a browser window with the URL: `http://localhost:9000`.
-1. Click a folder to find the Markdown file you want to preview.
-1. When you are done previewing, type `Ctrl+C` to stop running the Docker container.
+Refer to the instruction for your text editor for Markdown previewing. For example, [Markdown and Visual Studio Code](https://code.visualstudio.com/Docs/languages/markdown) describes how to configure Markdown extensions. 
 
 ## Contributor guidelines
 
@@ -47,9 +35,9 @@ To create and publish a new lab, take the following steps:
 - Create a JSON file with the same name as the `labs/`_folder_ name.
 - Create markdown files named 1.md, 2.md, and so on; refer to those files in the `labs/`_folder_ JSON file.
 - Ensure that the JSON file contains appropriate page titles and file references.
-- Send a pull request to get the files committed and merged to `master` by a DevNet reviewer.
+- Send a pull request to get the files committed and merged to the default branch by a DevNet reviewer.
 
-A DevNet reviewer then creates a release on the repository with the latest `master` and publishes through the admin interface.
+A DevNet reviewer then creates a release on the repository with the latest changes and publishes through the admin interface.
 
 #### Editors
 
